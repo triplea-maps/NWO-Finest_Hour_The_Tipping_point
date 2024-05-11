@@ -1,0 +1,109 @@
+
+<unitPlacement unitType="Conscript" territory="Armenia" quantity="1" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Azerbaydzhan" quantity="1" owner="Russians"/>
+
+<unitPlacement unitType="Conscript" territory="Belorussia" quantity="1" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Litovskaya" quantity="1" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Belorussia" quantity="1" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Moldavskaya" quantity="1" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Odessa" quantity="1" owner="Russians"/>
+
+<unitPlacement unitType="Conscript" territory="Ukrainskaya" quantity="1" owner="Russians"/>
+<unitPlacement unitType="Artillery" territory="Ukrainskaya" quantity="2" owner="Russians"/>
+
+<unitPlacement unitType="Conscript" territory="Riga" quantity="1" owner="Russians"/>
+<unitPlacement unitType="Artillery" territory="Riga" quantity="1" owner="Russians"/>
+
+
+<unitPlacement unitType="Conscript" territory="Estorskaya" quantity="1" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Estonia" quantity="1" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Olonets" quantity="2" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Belomorsk" quantity="1" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Murmansk" quantity="1" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Vologda" quantity="2" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Yaroslavl" quantity="2" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Kaluga" quantity="1" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Rzhev" quantity="2" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Nikolsk" quantity="1" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Nenets" quantity="2" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Svedlovsk" quantity="2" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Donetsk" quantity="3" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Kursk" quantity="1" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Krym" quantity="3" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Stavropol" quantity="1" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Sochi" quantity="1" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Kizbar" quantity="1" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Astraknan" quantity="1" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Kazakh" quantity="2" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Novgorod" quantity="2" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Kubyshev" quantity="1" owner="Russians"/>
+
+<unitPlacement unitType="Conscript" territory="Brest" quantity="2" owner="Russians"/>
+<unitPlacement unitType="Artillery" territory="Brest" quantity="1" owner="Russians"/>
+
+<unitPlacement unitType="Conscript" territory="Minsk" quantity="1" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Saratov" quantity="1" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Lugansk" quantity="1" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Pavlovsk" quantity="1" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Evenki Okrug" quantity="2" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Karchia" quantity="1" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Gorky" quantity="1" owner="Russians"/>	
+
+<unitPlacement unitType="Factory" territory="Moscow" quantity="1" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Moscow" quantity="6" owner="Russians"/>
+<unitPlacement unitType="Armour" territory="Moscow" quantity="3" owner="Russians"/>
+<unitPlacement unitType="AAGun" territory="Moscow" quantity="1" owner="Russians"/> 
+<unitPlacement unitType="Artillery" territory="Moscow" quantity="2" owner="Russians"/>
+<unitPlacement unitType="Fighter" territory="Moscow" quantity="1" owner="Russians"/>
+<unitPlacement unitType="Bomber" territory="Moscow" quantity="1" owner="Russians"/>
+
+<unitPlacement unitType="Factory" territory="Leningrad" quantity="1" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Leningrad" quantity="7" owner="Russians"/>
+<unitPlacement unitType="Armour" territory="Leningrad" quantity="1" owner="Russians"/>
+<unitPlacement unitType="AAGun" territory="Leningrad" quantity="1" owner="Russians"/>
+<unitPlacement unitType="Fighter" territory="Leningrad" quantity="1" owner="Russians"/>
+
+<unitPlacement unitType="Factory" territory="Stalingrad" quantity="1" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Stalingrad" quantity="4" owner="Russians"/>
+<unitPlacement unitType="Armour" territory="Stalingrad" quantity="2" owner="Russians"/>
+<unitPlacement unitType="AAGun" territory="Stalingrad" quantity="1" owner="Russians"/>
+<unitPlacement unitType="Fighter" territory="Stalingrad" quantity="1" owner="Russians"/>
+
+<unitPlacement unitType="Factory" territory="Omsk" quantity="1" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Omsk" quantity="5" owner="Russians"/>
+<unitPlacement unitType="Armour" territory="Omsk" quantity="1" owner="Russians"/>
+<unitPlacement unitType="AAGun" territory="Omsk" quantity="1" owner="Russians"/>
+
+<unitPlacement unitType="Factory" territory="Rostov" quantity="1" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Rostov" quantity="2" owner="Russians"/>
+<unitPlacement unitType="AAGun" territory="Rostov" quantity="1" owner="Russians"/>
+
+
+<unitPlacement unitType="Conscript" territory="Smolensk" quantity="3" owner="Russians"/>
+<unitPlacement unitType="Armour" territory="Smolensk" quantity="1" owner="Russians"/>
+<unitPlacement unitType="AAGun" territory="Smolensk" quantity="1" owner="Russians"/>
+
+<unitPlacement unitType="Factory" territory="Archangelsk" quantity="1" owner="Russians"/>
+<unitPlacement unitType="Conscript" territory="Archangelsk" quantity="4" owner="Russians"/>
+<unitPlacement unitType="Armour" territory="Archangelsk" quantity="1" owner="Russians"/>
+<unitPlacement unitType="AAGun" territory="Archangelsk" quantity="1" owner="Russians"/>
+
+
+
+
+
+
+
+<unitPlacement unitType="Submarine" territory="sz21" quantity="2" owner="Russians"/>
+<unitPlacement unitType="Destroyer" territory="sz21" quantity="1" owner="Russians"/>
+<unitPlacement unitType="Transport" territory="sz21" quantity="2" owner="Russians"/>
+
+<unitPlacement unitType="Submarine" territory="sz28" quantity="1" owner="Russians"/>
+<unitPlacement unitType="Battleship" territory="sz28" quantity="1" owner="Russians"/>
+<unitPlacement unitType="Transport" territory="sz28" quantity="2" owner="Russians"/>
+
+<unitPlacement unitType="Submarine" territory="sz61" quantity="1" owner="Russians"/>
+<unitPlacement unitType="Destroyer" territory="sz61" quantity="2" owner="Russians"/>
+<unitPlacement unitType="Transport" territory="sz61" quantity="2" owner="Russians"/>
+
+<unitPlacement unitType="Transport" territory="sz62" quantity="1" owner="Russians"/>
